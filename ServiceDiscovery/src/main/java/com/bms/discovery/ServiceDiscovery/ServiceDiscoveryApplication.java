@@ -1,3 +1,4 @@
+
 package com.bms.discovery.ServiceDiscovery;
 
 import org.springframework.boot.SpringApplication;
